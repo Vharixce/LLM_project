@@ -2,13 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Client</title>
+    <link rel="stylesheet" href="./style.css"> <!-- Link to external CSS -->
 </head>
 <body>
-<span id="askQuestion"></span>
+<div class="chat-container">
+    <div id="conversation" class="conversation"></div>
+
+    <form id="chat-form" class="chat-form">
+        <input id="field" type="text" placeholder="Type your question…" required />
+        <button type="submit">Ask</button>
+    </form>
+</div>
+
+<script type="module" src="./app.js"></script>
 </body>
 </html>
-<script type="module" src="app.js"></script>

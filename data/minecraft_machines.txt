@@ -1,0 +1,14 @@
+Automatische tarwe- en groentefarm
+Met waterkanalen die door dispensers en timers worden aangestuurd, kun je gewassen automatisch oogsten en verzamelen. Je gebruikt hiervoor: redstone, repeaters of comparators, dispensers, water- emmers, hoppers en kisten.
+
+Mob-grinder (mob-farm)
+Een donkere toren waarin vijanden spawnen en via val- of watermechanismen naar een verzamelpunt worden geleid, waar ze door lava of val schade nemen. Belangrijke bouwblokken: bouwstenen (bijv. steen of obsidiaan), water-emmers, hoppers, kisten, koraalbloeiers voor lichtcontrole, en eventueel pistons om de spawns te verplaatsen.
+
+Automatische smelter / item-sorter
+Een ovenstraat met hoppers boven en onder: hoppers voeren ruwe materialen automatisch in de ovens en halen afgewerkte producten eruit. Voor sortering kun je extra hoppers, comparators en repeaters gebruiken om stacks in aparte kisten te laten landen. Nodig: ovens (furnaces), hoppers, kisten, redstone comparators, repeaters en torches.
+
+Geheime of automatische deur
+Pistons (zuigers) en observers creëren stiekeme schuifdeuren die openen zodra je over een drukplaat of tripwire loopt, of wanneer je een knop of hendel activeert. Hiervoor gebruik je: sticky pistons, redstone dust, observers, repeaters, blocks naar keuze en bedekt traps of panelen.
+
+Minecart-laadsysteem
+Automatisch mijnkarretjes vullen (bijv. met hout of ertsen) door boven rails hoppers te plaatsen die kisten voeden. Zo laad je karretjes in één klik. Nodig: rails, powered rails, redstone torches, hoppers, kisten en minecarts.
