@@ -3,16 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Client</title>
-    <link rel="stylesheet" href="./style.css"> <!-- Link to external CSS -->
+    <title>LoL Assistent</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 <div class="chat-container">
+    <div class="header">
+        <h2>Hextech Assistent</h2>
+    </div>
+    
     <div id="conversation" class="conversation"></div>
 
     <form id="chat-form" class="chat-form">
-        <input id="field" type="text" placeholder="Type your question…" required />
-        <button type="submit">Ask</button>
+        <input id="field" type="text" placeholder="Stel je vraag..." required autocomplete="off" />
+        <button type="submit">Cast</button>
     </form>
 </div>
 
