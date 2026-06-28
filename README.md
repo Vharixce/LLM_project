@@ -1,16 +1,4 @@
-Een chatbot waarmee je alles kunt vragen over Minecraft! Deze applicatie maakt gebruik van Azure OpenAI via een Node.js server en een client-side frontend gebouwd in HTML, CSS en JavaScript.
-Functies
-
-    Stel vragen over games zoals bij Minecraft kan je vragen over blokken, mobs, biomen, crafting recepten en meer!
-    Chatgeschiedenis wordt opgeslagen en bijgehouden met rollen zoals systeem, mens en assistent.
-    Streaming: antwoorden verschijnen woord voor woord.
-    Gebruikt embeddings van een eigen document (minecraft_machines.txt)
-    API-sleutels worden veilig opgeslagen in een .env bestand.
-
-
-Installatie-instructies
-
-
+een chatbot die je helpt beter worden in league of legends.
 
 Installeer de benodigde pakketten:
 
